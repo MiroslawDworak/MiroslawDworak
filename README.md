@@ -2,7 +2,7 @@
   <img 
     src="./md.png" 
     alt="Mirosław Dworak – GitHub Banner"
-    width="1200"
+   
   />
 </p>
 
