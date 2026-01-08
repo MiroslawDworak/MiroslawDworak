@@ -2,9 +2,7 @@
   <img 
     src="./md.png" 
     alt="Mirosław Dworak – GitHub Banner"
-   <h1 align="center">👋 Cześć, jestem Mirosław Dworak</h1>
-
-</p>
+  </p>
 
 <h1 align="center">👋 Cześć, jestem Mirosław Dworak</h1>
 
