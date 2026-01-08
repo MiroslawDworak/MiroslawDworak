@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="assets/md.png" 
+    src="./md.png" 
     alt="Mirosław Dworak – GitHub Banner"
     width="1200"
   />
